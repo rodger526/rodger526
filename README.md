@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Rodger Mauricio Muñoz Molina!
 
-<!--
-**rodger526/rodger526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería en Tecnologías de la Información**  
+💻 Desarrollador **Frontend Junior** enfocado en crear interfaces limpias, modernas y funcionales.  
+🌙 Busco oportunidades **remotas (turno nocturno)** para seguir aprendiendo y aportar en proyectos reales.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Tecnologías que uso
+- **Frontend:** HTML5 | CSS3 | JavaScript (DOM, APIs)
+- **Frameworks:** Bootstrap | Tailwind CSS (básico)
+- **Backend básico:** Python | Java | SQL
+- **Herramientas:** Git | GitHub | VS Code | Figma (UI/UX)
+
+---
+
+### 🚀 Proyectos Destacados
+| Proyecto | Descripción | Tecnologías | Enlace |
+|-----------|--------------|--------------|---------|
+| 🌐 **Login Web Responsive** | Interfaz moderna con validación básica de usuario. | HTML, CSS, JS | [Ver proyecto](https://github.com/rodger526/login-web) |
+| 📋 **CRUD de Estudiantes** | App simple para registrar y editar alumnos. | Python, SQLite | [Ver proyecto](https://github.com/rodger526/crud-estudiantes) |
+| 💼 **Portafolio Personal** | Mi sitio web con información y proyectos. | HTML, CSS, JS | [Ver proyecto](https://github.com/rodger526/portafolio) |
+
+---
+
+### 📬 Contacto
+📧 rodger@example.com  
+🔗 [LinkedIn](#) (pendiente de crear)  
+💻 [GitHub](https://github.com/rodger526)
+
+> 💡 *“Aprendiendo algo nuevo cada noche.”*
