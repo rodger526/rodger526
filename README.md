@@ -19,12 +19,12 @@
 |-----------|--------------|--------------|---------|
 | 🌐 **Login Web Responsive** | Interfaz moderna con validación básica de usuario. | HTML, CSS, JS | [Ver proyecto](https://github.com/rodger526/login-web) |
 | 📋 **CRUD de Estudiantes** | App simple para registrar y editar alumnos. | Python, SQLite | [Ver proyecto](https://github.com/rodger526/crud-estudiantes) |
-| 💼 **Portafolio Personal** | Mi sitio web con información y proyectos. | HTML, CSS, JS | [Ver proyecto](https://github.com/rodger526/portafolio) |
+| 💼 **Gestion de tareas** | Mi sitio web con información y proyectos. | HTML, CSS, JS | [Ver proyecto](https://github.com/rodger526/Gestion-de-tareas) |
 
 ---
 
 ### 📬 Contacto
-📧 rodger@example.com  
+📧 munozrodger@gmail.com
 🔗 [LinkedIn](#) (pendiente de crear)  
 💻 [GitHub](https://github.com/rodger526)
 
