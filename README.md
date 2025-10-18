@@ -18,8 +18,8 @@
 | Proyecto | Descripción | Tecnologías | Enlace |
 |-----------|--------------|--------------|---------|
 | 🌐 **Login Web Responsive** | Interfaz moderna con validación básica de usuario. | HTML, CSS, JS | [Ver proyecto](https://github.com/rodger526/login-web) |
-| 📋 **CRUD de Estudiantes** | App simple para registrar y editar alumnos. | Python, SQLite | [Ver proyecto](https://github.com/rodger526/crud-estudiantes) |
-| 💼 **Gestion de tareas** | Mi sitio web con información y proyectos. | HTML, CSS, JS | [Ver proyecto](https://github.com/rodger526/Gestion-de-tareas) |
+| 📋 **CRUD de Estudiantes** | App simple para registrar y editar alumnos. | Python, SQLite | [Ver proyecto](https://github.com/rodger526/crud-para-estudiantes) |
+| 💼 **Gestion de tareas** | Mi sitio web con información y proyectos. | Python | [Ver proyecto](https://github.com/rodger526/Gestion-de-tareas) |
 
 ---
 
