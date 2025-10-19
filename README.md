@@ -25,7 +25,9 @@
 
 ### 📬 Contacto
 📧 [Correo] (munozrodger@gmail.com)
+
 🔗 [LinkedIn] (www.linkedin.com/in/rodger-muñoz-652542319) 
+
 💻 [GitHub] (https://github.com/rodger526)
 
 > 💡 *“Aprendiendo algo nuevo cada noche.”*
